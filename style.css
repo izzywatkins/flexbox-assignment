@@ -1,5 +1,5 @@
 body {
-    background-color: plum;
+    background-color: rgb(207, 181, 241);
 }
 
 h2 {
@@ -12,6 +12,7 @@ h2 {
 
 h1 {
     margin: auto;
+    font-size: 35px;
     font-family: monospace;
     font-weight: lighter;
 }
